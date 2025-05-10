@@ -8,4 +8,4 @@ Through MATLAB-based modeling, we observed that:
 - **Colder ambient temperatures** and **warmer refrigerated spaces** both improve overall efficiency.
 
 Our findings offer insights into designing **efficient**, **eco-friendly**, and **real-world applicable** refrigeration systems.
-https://github.com/yourusername/Refrigeration-Project/blob/main/Project_Refrigeration_Cascade.pdf
+
