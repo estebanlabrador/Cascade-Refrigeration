@@ -1,6 +1,6 @@
 # Cascade-Refrigeration
 
-We first simulated a simple NH₃ cycle with an evaporation temperature of -35ºC and a condensation temperature of 50ºC, resulting in a COP of 1.79. Under the same conditions, the **cascade system achieved a COP of 1.829**, showing a measurable improvement.
+I first simulated a simple NH₃ cycle with an evaporation temperature of -35ºC and a condensation temperature of 50ºC, resulting in a COP of 1.79. Under the same conditions, the **cascade system achieved a COP of 1.829**, showing a measurable improvement.
 
 Through MATLAB-based modeling, we observed that:
 - **Lower intermediate temperatures** increase COP and reduce NH₃ mass flow due to its superior thermodynamic properties.
