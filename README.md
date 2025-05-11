@@ -9,4 +9,4 @@ Through MATLAB-based modeling, we observed that:
 
 Our findings offer insights into designing **efficient**, **eco-friendly**, and **real-world applicable** refrigeration systems.
 
-The complete project report is available [here](./Project_Tritium_Extraction_FinalReport_2025.pdf).
+The complete project report is available [here](./Project_Refrigeration_Cascade.pdf).
