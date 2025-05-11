@@ -9,3 +9,4 @@ Through MATLAB-based modeling, we observed that:
 
 Our findings offer insights into designing **efficient**, **eco-friendly**, and **real-world applicable** refrigeration systems.
 
+Project_Refrigeration_Cascade.pdf
