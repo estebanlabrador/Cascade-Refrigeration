@@ -75,5 +75,3 @@ This system supports modern sustainability goals and safer refrigeration solutio
 
 > _This project demonstrates the feasibility and thermodynamic benefits of cascade refrigeration in ultra-low temperature applications. It also reflects my skills in thermal systems analysis, engineering modeling, and sustainable technology design._
 
-
-The complete project report is available [here](./Project_Refrigeration_Cascade.pdf).
