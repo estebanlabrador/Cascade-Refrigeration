@@ -79,6 +79,7 @@ The cascade configuration isolates NH₃ to the high-temperature loop for safety
 <p align="center">
   <em>Effect of supercooling NH₃ on COP, compression work, and mass flow rates.</em>
 </p>
+
 ---
 
 ## 🌱 Sustainability
