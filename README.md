@@ -42,6 +42,11 @@ The cascade configuration isolates NH₃ to the high-temperature loop for safety
 
 ---
 
+## 📊 Figures that demonstrate Results
+
+
+---
+
 ## 🌱 Sustainability
 
 Both NH₃ and CO₂ are environmentally friendly refrigerants:
