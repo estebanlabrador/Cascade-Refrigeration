@@ -61,6 +61,25 @@ The cascade configuration isolates NH₃ to the high-temperature loop for safety
   <em>Effect of intermediate temperature on COP, compression work, and mass flow rates.</em>
 </p>
 
+
+<p align="center">
+  <img src="./COP_cond.png" alt="Effect of Intermediate Temperature on COP and Compression Work" width="45%" />
+  <img src="./mass_cond.png" alt="Effect of Intermediate Temperature on Mass Flow Rates" width="45%" />
+</p>
+
+<p align="center">
+  <em>Effect of condensation temperature on COP, compression work, and mass flow rates.</em>
+</p>
+
+
+<p align="center">
+  <img src="./COP_supercooling.png" alt="Effect of Intermediate Temperature on COP and Compression Work" width="45%" />
+  <img src="./mass_supercooling.png" alt="Effect of Intermediate Temperature on Mass Flow Rates" width="45%" />
+</p>
+
+<p align="center">
+  <em>Effect of supercooling NH3 on COP, compression work, and mass flow rates.</em>
+</p>
 ---
 
 ## 🌱 Sustainability
