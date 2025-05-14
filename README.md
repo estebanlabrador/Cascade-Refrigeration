@@ -13,6 +13,14 @@ This project presents a detailed thermodynamic analysis and optimization of a **
 
 The cascade configuration isolates NH₃ to the high-temperature loop for safety while using CO₂ in the distribution side, combining high performance with safer and more environmentally friendly operation.
 
+<p align="center">
+  <img src="./T-s_diagram.png" alt="T-s Diagram of the Cascade Refrigeration Cycle Using Ammonia and CO2" width="45%" />
+</p>
+
+<p align="center">
+  <em>T-s diagram of the cascade refrigeration cycle using ammonia and CO₂.</em>
+</p>
+
 ---
 
 ## 🔧 Objectives
