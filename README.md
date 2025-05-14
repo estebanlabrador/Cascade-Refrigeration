@@ -45,14 +45,14 @@ The cascade configuration isolates NH₃ to the high-temperature loop for safety
 ## 📊 Figures that demonstrate Results
 
 <p align="center">
-  <img src="./seg_lengths.png" alt="Segment Length Turbulent Flow" width="45%" />
-  <img src="./MTC_seg_lengths.png" alt="Segment Length MTC Comparison" width="45%" />
+  <img src="./COP_int.png" alt="Effect of Intermediate Temperature on COP and Compression Work" width="45%" />
+  <img src="./mass_int.png" alt="Effect of Intermediate Temperature on Mass Flow Rates" width="45%" />
 </p>
 
 <p align="center">
-  <em>Left: Top-down cross-sectional views of turbulent velocity profiles for segment lengths of 2.375 mm (top-left), 3.56 mm (top-right), 4.75 mm (bottom-left), and 9.56 mm (bottom-right).  
-  Right: Mass transfer coefficient (MTC) as a function of distance along the channel for different segment lengths and flow rates.</em>
+  <em>Effect of intermediate temperature on COP, compression work, and mass flow rates.</em>
 </p>
+
 ---
 
 ## 🌱 Sustainability
